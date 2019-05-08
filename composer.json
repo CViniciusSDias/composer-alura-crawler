@@ -28,5 +28,6 @@
             "@phan",
             "@test"
         ]
-    }
+    },
+    "bin": ["alura-crawler.php"]
 }
