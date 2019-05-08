@@ -29,7 +29,8 @@
             "@phpcs",
             "@phan",
             "@test"
-        ]
+        ],
+        "post-update-cmd": "@test"
     },
     "bin": ["alura-crawler.php"]
 }
