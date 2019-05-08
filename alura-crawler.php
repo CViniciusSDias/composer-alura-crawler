@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/vendor/autoload.php';
+require 'vendor/autoload.php';
 
 $httpClient = new \GuzzleHttp\Client(['base_uri' => 'https://www.alura.com.br/']);
 
