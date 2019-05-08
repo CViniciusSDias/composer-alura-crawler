@@ -1,4 +1,6 @@
 {
+    "name": "cviniciussdias/alura-crawler",
+    "description": "Buscador de cursos no site da Alura",
     "autoload": {
         "psr-4": {
             "Alura\\Crawler\\": "src/"
